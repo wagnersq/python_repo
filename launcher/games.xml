@@ -1,0 +1,32 @@
+<root>
+	<game>
+		<name>1 - notepad++</name>
+		<path>C:\Program Files (x86)\Notepad++\notepad++.exe</path>
+		<img>npp.png</img>
+	</game>
+	<game>
+		<name>2 - Firefox</name>
+		<path>C:\Program Files (x86)\Mozilla Firefox\firefox.exe</path>
+		<img>firefox.jpg</img>
+	</game>
+	<game>
+		<name>3 - default++</name>
+		<path>C:\Program Files (x86)\Notepad++\notepad++.exe</path>
+		<img></img>
+	</game>
+	<game>
+		<name>4 - mais um notepad</name>
+		<path>C:\Program Files (x86)\Notepad++\notepad++.exe</path>
+		<img>npp.png</img>
+	</game>
+	<game>
+		<name>5 - Firefox</name>
+		<path>C:\Program Files (x86)\Mozilla Firefox\firefox.exe</path>
+		<img>firefox.jpg</img>
+	</game>
+	<game>
+		<name>6 - mais um notepad</name>
+		<path>C:\Program Files (x86)\Notepad++\notepad++.exe</path>
+		<img>npp.png</img>
+	</game>
+</root>
